@@ -8,7 +8,7 @@ public interface IAnimal {
 
     AnimalType getType();
 
-    String getSound();
+    String getOnomatopoeia();
 
     boolean isTerrestrial(); 
 

@@ -10,7 +10,7 @@ public abstract class AbstractAnimal implements IAnimal {
     
     protected String name;
     protected AnimalType type;
-    protected String sound;
+    protected String onomatopoeia;
 
     @Override
     public String getName() {
@@ -23,8 +23,8 @@ public abstract class AbstractAnimal implements IAnimal {
     }
 
     @Override
-    public String getSound() {
-        return sound;
+    public String getOnomatopoeia() {
+        return onomatopoeia;
     }
 
     // Implementación de los métodos de la interfaz
@@ -45,6 +45,6 @@ public abstract class AbstractAnimal implements IAnimal {
 
     @Override
     public String toString() {
-        return "Name: " + name + ", Type: " + type + ", Sound: " + sound;
+        return "Name: " + name + ", Type: " + type + ", Onomatopoeia: " + onomatopoeia;
     }
 }

@@ -22,9 +22,9 @@ public class AnimalComponent {
             if (parts.length == 3) {
                 String name = parts[0];
                 AnimalType type = AnimalType.valueOf(parts[1].toUpperCase());
-                String sound = parts[2];
+                String onomatopoeia = parts[2];
 
-                AnimalData animalData = new AnimalData(name, type, sound);
+                AnimalData animalData = new AnimalData(name, type, onomatopoeia);
                 animalDataList.add(animalData);
             }else{
                 System.out.println("Formato incorrecto para: " + arg);
