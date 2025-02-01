@@ -1,0 +1,77 @@
+[
+    {
+        "name": "Perro",
+        "type": "TERRESTRIAL",
+        "sound": "Ladrido"
+    },
+    {
+        "name": "Gato",
+        "type": "TERRESTRIAL",
+        "sound": "Maullido"
+    },
+    {
+        "name": "Elefante",
+        "type": "TERRESTRIAL",
+        "sound": "Barrito"
+    },
+    {
+        "name": "Caballo",
+        "type": "TERRESTRIAL",
+        "sound": "Relincho"
+    },
+    {
+        "name": "León",
+        "type": "TERRESTRIAL",
+        "sound": "Rugido"
+    },
+    {
+        "name": "Águila",
+        "type": "FLYING",
+        "sound": "Grito"
+    },
+    {
+        "name": "Loro",
+        "type": "FLYING",
+        "sound": "Habla"
+    },
+    {
+        "name": "Murciélago",
+        "type": "FLYING",
+        "sound": "Chirrido"
+    },
+    {
+        "name": "Halcón",
+        "type": "FLYING",
+        "sound": "Silbido"
+    },
+    {
+        "name": "Búho",
+        "type": "FLYING",
+        "sound": "Ulular"
+    },
+    {
+        "name": "Delfín",
+        "type": "AQUATIC",
+        "sound": "Chasquido"
+    },
+    {
+        "name": "Tiburón",
+        "type": "AQUATIC",
+        "sound": "Silencio"
+    },
+    {
+        "name": "Ballena",
+        "type": "AQUATIC",
+        "sound": "Canto"
+    },
+    {
+        "name": "Pulpo",
+        "type": "AQUATIC",
+        "sound": "Chirrido"
+    },
+    {
+        "name": "Medusa",
+        "type": "AQUATIC",
+        "sound": "Silencio"
+    }
+]
